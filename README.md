@@ -14,6 +14,14 @@ The implementation of EvoDeepTLPruning is divided in the following folders:
   
 ## Datasets
 
+The used datasets in this paper can be downloaded from:
+
+  * SRSMAS: http://www.google.fr/
+  * RPS:
+  * LEAVES:
+  * PAINTING:
+  * PLANTS:
+  * CATARACT:
 
 ## Results
 
