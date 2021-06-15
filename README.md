@@ -16,7 +16,9 @@ The implementation of EvoDeepTLPruning is divided in the following folders:
  
  To execute the code presented above, it is only required:
     
-    Python >= 3.6
+    Python >= 3.6, Keras >= 2.2.4
+    
+    
     
  
 ## Datasets
