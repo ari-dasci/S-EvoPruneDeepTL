@@ -20,13 +20,13 @@ The implementation of EvoDeepTLPruning is divided in the following folders:
     
   Then, given the previous folders and a dataset, the command is the following:
   
-    python3 mainEvoDeepTLPruning.py configs/configDataset[dataset].csv configGA[Consecutive].csv numberIteration
+    python3 mainEvoDeepTLPruning.py configs/configDataset[dataset].csv configGA[Consecutive].csv numberExecution
     
-   where
+   where:
    
-   * dataset names the dataset to analyze
-    
-    
+   * dataset names the dataset to analyze.
+   * the GA configuration could be the one used for the one layer approach, configGA.csv, or the both layer approach, named confiGAConsecutive.csv.
+   * numberExecution referes to the number of execution that we are carrying out.
     
  
 ## Datasets
