@@ -12,6 +12,13 @@ The implementation of EvoDeepTLPruning is divided in the following folders:
    * configs: contains the configuration files for each analyzed dataset in the paper.
    * convergence images: it contains the images for the convergence of some used datasets.
   
+ ### Execution
+ 
+ To execute the code presented above, it is only required:
+    
+    Python >= 3.6
+    
+ 
 ## Datasets
 
 The used datasets in this paper can be downloaded from:
