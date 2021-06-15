@@ -40,14 +40,17 @@ We show some of the convergence plots taken from our experiments:
 
 <ins> First Layer </ins>
 
-
-
-                                                                                                                
+| SRSMAS Plot| RPS Plot   | LEAVES Plot|
+|------------|------------|------------|
+|<img src="convergenceImages/convergenceSRSMASFC1.png" width="300" height="300">|<img src="convergenceImages/convergenceRPSFC1.png" width="300" height="300">|<img src="convergenceImages/convergenceLeavesFC1.png" width="300" height="300">|
                                                                                                                 
 <ins> Second Layer </ins>
 
+| SRSMAS Plot| RPS Plot   | LEAVES Plot|
+|------------|------------|------------|
+|<img src="convergenceImages/convergenceSRSMASFC2.png" width="300" height="300">|<img src="convergenceImages/convergenceRPSFC2.png" width="300" height="300">|<img src="convergenceImages/convergenceLeavesFC2.png" width="300" height="300">|
 <ins> Both Layers </ins>
 
-| SRSMAS Plot| RPS Plot     | LEAVES PLOT    |
-|------------|------------|----------|
+| SRSMAS Plot| RPS Plot   | LEAVES Plot|
+|------------|------------|------------|
 |<img src="convergenceImages/convergenceSRSMASBoth.png" width="300" height="300">|<img src="convergenceImages/convergenceRPSBoth.png" width="300" height="300">|<img src="convergenceImages/convergenceLeavesBoth.png" width="300" height="300">|
