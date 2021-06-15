@@ -25,3 +25,15 @@ The used datasets in this paper can be downloaded from:
 
 ## Results
 
+EvoDeepTLPruning is able to optimize sparse layers using a genetic algorithm, giving a neural scheme as it is shown.
+
+![Image0] https://github.com/ari-dasci/S-EvoDeepTLPruning/blob/master/images/sparse_representation.png?raw=true
+
+The following table shows the results of EvoDeepTLPruning when the comparison is made against CNN pruning methods.
+
+
+
+## Convergence Plots
+
+We show some of the convergence plots taken from our experiments:
+
