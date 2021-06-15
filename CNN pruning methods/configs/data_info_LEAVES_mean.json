@@ -1,0 +1,16 @@
+{
+    "LEAVES_MEAN":
+    {
+        "height" : 256,
+        "width" : 256,
+        "channels" : 3,
+        "num_folds" : 5,
+        "train_path" : "./Datos/LeavesTrainTest/train/",
+        "test_path" : "./Datos/LeavesTrainTest/test/",
+        "file_format" : "png",
+        "best_fc1" : 0.64,
+        "best_fc2" : 0.88,
+        "best_both_fc1": 0.65,
+        "best_both_fc2": 0.67
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "PAINTINGFULL":
+    {
+        "height" : 256,
+        "width" : 256,
+        "channels" : 3,
+        "num_folds" : 1,
+        "train_path" : "/mnt/sdd2/japoyatos/musemart_full/train/",
+        "test_path" : "/mnt/sdd2/japoyatos/musemart_full/test/",
+        "file_format" : "png",
+        "best_fc1" : 0.53,
+        "best_fc2" : 0.72,
+        "len_train": 2520,
+        "len_test": 372,
+        "best_both_fc1": 0.467,
+        "best_both_fc2": 0.455
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "LEAVES":
+    {
+        "height" : 256,
+        "width" : 256,
+        "channels" : 3,
+        "num_folds" : 5,
+        "train_path" : "/mnt/sdd2/japoyatos/leaves/train/",
+        "test_path" : "/mnt/sdd2/japoyatos/leaves/test/",
+        "file_format" : "png",
+        "best_fc1" : 0.89,
+        "best_fc2" : 0.93,
+        "best_both_fc1": 0.605,
+        "best_both_fc2": 0.637
+    }
+}

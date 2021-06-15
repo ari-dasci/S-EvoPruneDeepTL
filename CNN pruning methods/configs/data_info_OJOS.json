@@ -1,0 +1,16 @@
+{
+    "OJOS":
+    {
+        "height" : 256,
+        "width" : 256,
+        "channels" : 3,
+        "num_folds" : 1,
+        "train_path" : "/mnt/sdd2/japoyatos/CataractDataset/train/",
+        "test_path" : "/mnt/sdd2/japoyatos/CataractDataset/test/",
+        "file_format" : "png",
+        "best_fc1" : 0.36,
+        "best_fc2" : 0.70,
+        "best_both_fc1": 0.418,
+        "best_both_fc2": 0.42
+    }
+}

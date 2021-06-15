@@ -1,0 +1,16 @@
+{
+    "CORAL":
+    {
+        "height" : 299,
+        "width" : 299,
+        "channels" : 3,
+        "num_folds" : 5,
+        "train_path" : "/mnt/sdd2/japoyatos/corales/train/",
+        "test_path" : "/mnt/sdd2/japoyatos/corales/test/",
+        "file_format" : "jpg",
+        "best_fc1" : 0.64,
+        "best_fc2" : 0.64,
+        "best_both_fc1": 0.23,
+        "best_both_fc2": 0.25
+    }
+}

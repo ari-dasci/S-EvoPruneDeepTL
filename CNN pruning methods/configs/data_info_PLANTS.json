@@ -1,0 +1,18 @@
+{
+    "PLANTS":
+    {
+        "height" : 100,
+        "width" : 100,
+        "channels" : 3,
+        "num_folds" : 1,
+        "train_path" : "/mnt/sdd2/japoyatos/PlantDoc/train/",
+        "test_path" : "/mnt/sdd2/japoyatos/PlantDoc/test/",
+        "file_format" : "png",
+        "best_fc1" : 0.41,
+        "best_fc2" : 0.66,
+        "best_both_fc1": 0.709,
+        "best_both_fc2": 0.685,
+        "len_train": 2340,
+        "len_test": 236
+    }
+}

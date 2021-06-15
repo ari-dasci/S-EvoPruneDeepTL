@@ -1,0 +1,16 @@
+{
+    "CORAL_MEAN":
+    {
+        "height" : 299,
+        "width" : 299,
+        "channels" : 3,
+        "num_folds" : 5,
+        "train_path" : "./Datos/Estructura5fcv/train/",
+        "test_path" : "./Datos/Estructura5fcv/test/",
+        "file_format" : "jpg",
+        "best_fc1" : 0.49,
+        "best_fc2" : 0.53,
+        "best_both_fc1": 0.36,
+        "best_both_fc2": 0.35
+    }
+}
