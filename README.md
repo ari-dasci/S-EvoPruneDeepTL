@@ -40,7 +40,9 @@ We show some of the convergence plots taken from our experiments:
 
 <ins> First Layer </ins>
 
-<img src=“https://github.com/ari-dasci/S-EvoDeepTLPruning/blob/main/convergenceImages/convergenceLeavesBoth.png">
+<img src="convergenceImages/convergenceLeavesBoth.png">
+                                                                                                                
+                                                                                                                
 <ins> Second Layer </ins>
 
 <ins> Both Layers </ins>
