@@ -48,6 +48,6 @@ We show some of the convergence plots taken from our experiments:
 
 <ins> Both Layers </ins>
 
-| col 1      | col 2      | col 3    |
+| SRSMAS Plot| RPS Plot     | LEAVES PLOT    |
 |------------|------------|----------|
 |<img src="convergenceImages/convergenceSRSMASBoth.png" width="300" height="300">|<img src="convergenceImages/convergenceRPSBoth.png" width="300" height="300">|<img src="convergenceImages/convergenceLeavesBoth.png" width="300" height="300">|
