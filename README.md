@@ -40,9 +40,15 @@ We show some of the convergence plots taken from our experiments:
 
 <ins> First Layer </ins>
 
-<img src="convergenceImages/convergenceLeavesBoth.png">
+
                                                                                                                 
                                                                                                                 
 <ins> Second Layer </ins>
 
 <ins> Both Layers </ins>
+
+<img src="convergenceImages/convergenceSRSMASBoth.png" width="100" height="100">
+
+<img src="convergenceImages/convergenceRPSBoth.png">
+
+<img src="convergenceImages/convergenceLeavesBoth.png">
