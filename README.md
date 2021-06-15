@@ -1,3 +1,3 @@
 # S-EvoDeepTLPruning
 
-This is the official repository of EvoDeepTLPruning: Evolutionary Algorithm for Deep Transfer Learningby Pruning Neurons in Dense Layers
+This is the official repository of EvoDeepTLPruning: Evolutionary Algorithm for Deep Transfer Learning by Pruning Neurons in Dense Layers
