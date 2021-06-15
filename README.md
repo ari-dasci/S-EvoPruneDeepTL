@@ -38,4 +38,8 @@ The following table shows the results of EvoDeepTLPruning when the comparison is
 
 We show some of the convergence plots taken from our experiments:
 
-<ins> A</ins>
+<ins> First Layer </ins>
+
+<ins> Second Layer </ins>
+
+<ins> Both Layers </ins>
