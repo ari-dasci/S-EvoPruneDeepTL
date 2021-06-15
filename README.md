@@ -8,7 +8,12 @@ The implementation of EvoDeepTLPruning is divided in the following folders:
 
    * EvoDeepTLPruning FC1 FC2: the folder contains the python files for the one layer approaches.
    * EvoDeepTLPruning Both: this folders contains the python files for the both layer approach.
+   * CNN pruning methods: contains the implementation of the compared CNN pruning methods in the paper.
    * configs: contains the configuration files for each analyzed dataset in the paper.
-
+   * convergence images: it contains the images for the convergence of some used datasets.
+  
 ## Datasets
+
+
+## Results
 
