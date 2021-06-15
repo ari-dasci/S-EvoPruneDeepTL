@@ -1,6 +1,6 @@
-# EvoPruning
+# CNN Pruning Methods
 
-Para hacer funcionar el trastochisme este en principio será suficiente con que pogas todos los Datasets bajo una carpeta llamada Datos (junto con todos los .py) y añadas la info correspondiente al archivo .json. Tiene la siguiente forma:
+Para hacer funcionar el código será suficiente con que añadir todos los Datasets bajo una carpeta llamada Datos (junto con todos los .py) y añadas la info correspondiente al archivo .json. Tiene la siguiente forma:
 ```json
     "RPS":
     {
@@ -27,4 +27,3 @@ Explico tambien un poquito qué experimentos se realizan:
 * Los resultados he decidido guardarlos en formato JSON para que sea super easy leerlos. Los resultados se guardan en `summary`;
     *  Hay un json dentro de summary que tiene la media de todos los runs
     * Bajo el nombre de cada DATASET_RUN tienes todo lo demás: Modelos y json separados.
-    * He hecho que todos los approaches pruneen un modelo con los mismos pesos, asi me parecia mas fair. Es decir, el modelo se entrena una vez y se prunea con todos los approaches, asi que de lujo, no hay que andar entrenando mil modelos diferentes xD
