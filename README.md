@@ -49,6 +49,6 @@ We show some of the convergence plots taken from our experiments:
 
 <img src="convergenceImages/convergenceSRSMASBoth.png" width="500" height="500">
 
-<img src="convergenceImages/convergenceRPSBoth.png">
+<img src="convergenceImages/convergenceRPSBoth.png" width="500" height="500">
 
-<img src="convergenceImages/convergenceLeavesBoth.png">
+<img src="convergenceImages/convergenceLeavesBoth.png" width="500" height="500">
