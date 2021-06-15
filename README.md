@@ -18,6 +18,14 @@ The implementation of EvoDeepTLPruning is divided in the following folders:
     
     Python >= 3.6, Keras >= 2.2.4
     
+  Then, given the previous folders and a dataset, the command is the following:
+  
+    python3 mainEvoDeepTLPruning.py configs/configDataset[dataset].csv configGA[Consecutive].csv numberIteration
+    
+   where
+   
+   * dataset names the dataset to analyze
+    
     
     
  
