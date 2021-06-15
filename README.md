@@ -29,10 +29,9 @@ EvoDeepTLPruning is able to optimize sparse layers using a genetic algorithm, gi
 
 ![Image0](https://github.com/ari-dasci/S-EvoDeepTLPruning/tree/main/images/sparseRepresentation.png)
 
-
-
 The following table shows the results of EvoDeepTLPruning when the comparison is made against CNN pruning methods.
 
+![Image0](https://github.com/ari-dasci/S-EvoDeepTLPruning/blob/main/images/resultsEvoDeepTLPruningCNN.png)
 
 
 ## Convergence Plots
