@@ -47,4 +47,4 @@ We show some of the convergence plots taken from our experiments:
 
 <ins> Both Layers </ins>
 
-<img src="convergenceImages/convergenceSRSMASBoth.png" width="350" height="350"> <img src="convergenceImages/convergenceRPSBoth.png" width="350" height="350"> <img src="convergenceImages/convergenceLeavesBoth.png" width="350" height="350">
+<img src="convergenceImages/convergenceSRSMASBoth.png" width="300" height="300"> <img src="convergenceImages/convergenceRPSBoth.png" width="300" height="300"> <img src="convergenceImages/convergenceLeavesBoth.png" width="300" height="300">
