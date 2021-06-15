@@ -16,12 +16,12 @@ The implementation of EvoDeepTLPruning is divided in the following folders:
 
 The used datasets in this paper can be downloaded from:
 
-  * SRSMAS: http://www.google.fr/
-  * RPS:
-  * LEAVES:
-  * PAINTING:
-  * PLANTS:
-  * CATARACT:
+  * SRSMAS: https://sci2s.ugr.es/CNN-coral-image-classification
+  * RPS: https://www.tensorflow.org/datasets/catalog/rock_paper_scissors
+  * LEAVES: https://www.tensorflow.org/datasets/catalog/citrus_leaves
+  * PAINTING: https://www.kaggle.com/thedownhill/art-images-drawings-painting-sculpture-engraving
+  * PLANTS: https://github.com/pratikkayal/PlantDoc-Dataset
+  * CATARACT: https://www.kaggle.com/jr2ngb/cataractdataset
 
 ## Results
 
