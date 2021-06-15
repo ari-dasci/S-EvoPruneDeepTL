@@ -38,4 +38,4 @@ The following table shows the results of EvoDeepTLPruning when the comparison is
 
 We show some of the convergence plots taken from our experiments:
 
-<u> A</u>
+<ins> A</ins>
