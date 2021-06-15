@@ -40,6 +40,8 @@ We show some of the convergence plots taken from our experiments:
 
 <ins> First Layer </ins>
 
+{% include image.html url="convergenceImages/convergenceSRSMASBoth.png" description="My cat, Robert Downey Jr." %}
+
 
                                                                                                                 
                                                                                                                 
