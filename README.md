@@ -1,10 +1,10 @@
-# S-EvoDeepTLPruning
+# S-EvoPruneDeepTL
 
-This is the official repository of EvoDeepTLPruning: Evolutionary Algorithm for Deep Transfer Learning by Pruning Neurons in Dense Layers
+This is the official repository of EvoPruneDeepTL: An Evolutionary Pruning Model: for Transfer Learning based Deep Neural Networks
 
 ## Code
 
-The implementation of EvoDeepTLPruning is divided in the following folders:
+The implementation of EvoPruneDeepTL is divided in the following folders:
 
    * EvoDeepTLPruning FC1 FC2: the folder contains the python files for the one layer approaches.
    * EvoDeepTLPruning Both: this folders contains the python files for the both layer approach.
@@ -20,7 +20,7 @@ The implementation of EvoDeepTLPruning is divided in the following folders:
     
   Then, given the previous folders and a dataset, the command is the following:
   
-    python3 mainEvoDeepTLPruning.py configs/configDataset[dataset].csv configGA[Consecutive].csv numberExecution
+    python3 main.py configs/configDataset[dataset].csv configGA[Consecutive].csv numberExecution
     
    where:
    
@@ -42,13 +42,13 @@ The used datasets in this paper can be downloaded from:
 
 ## Results
 
-EvoDeepTLPruning is able to optimize sparse layers using a genetic algorithm, giving a neural scheme as it is shown.
+EvoPruneDeepTL is able to optimize sparse layers using a genetic algorithm, giving a neural scheme as it is shown.
 
-![Image0](https://github.com/ari-dasci/S-EvoDeepTLPruning/blob/main/images/sparseRepresentation.png)
+![Image0](https://github.com/ari-dasci/S-EvoPruneDeepTL/blob/main/images/sparseRepresentation.png)
 
-The following table shows the results of EvoDeepTLPruning when the comparison is made against CNN pruning methods.
+The following table shows the results of EvoPruneDeepTL when the comparison is made against CNN pruning methods.
 
-![Image0](https://github.com/ari-dasci/S-EvoDeepTLPruning/blob/main/images/resultsEvoDeepTLPruningCNN.png)
+![Image0](https://github.com/ari-dasci/S-EvoPruneDeepTL/blob/main/images/resultsEvoDeepTLPruningCNN.png)
 
 
 ## Convergence Plots
