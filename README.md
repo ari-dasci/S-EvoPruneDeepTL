@@ -77,7 +77,7 @@ The second experiment aggregates each class to the dataset until it is fully com
 
 <ins> Robustness </ins>
 
-We have used a novel metric called CKA (Centered Kernel Alignment) to check the robustness of the obtained pruned neural networks. This comparison has been done against the closes network (using Hamming distance as selection method) and a fully-connected network. The results are shown below:
+We have used a novel metric called CKA (Centered Kernel Alignment) to check the robustness of the obtained pruned neural networks. This comparison has been done against the closes network (using Hamming distance as selection method) and a fully-connected network. The results shows the robustness of EvoPruneDeepTL as the second column compares similar netwworks and the fourth column shows the results from more different networks:
 
 
 ![Image0](https://github.com/ari-dasci/S-EvoPruneDeepTL/blob/main/images/cka.png)
