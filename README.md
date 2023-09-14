@@ -25,7 +25,7 @@ The implementation of EvoPruneDeepTL is divided in the following folders:
    where:
    
    * dataset names the dataset to analyze.
-   * the GA configuration could be the one used for the one layer approach, configGA.csv, or the both layer approach, named confiGAConsecutive.csv.
+   * the GA configuration could be the one used for the one layer approach, configGA.csv, or the both layer approach, named configGAConsecutive.csv.
    * numberExecution referes to the number of execution that we are carrying out.
     
  
@@ -46,10 +46,13 @@ EvoPruneDeepTL is able to optimize sparse layers using a genetic algorithm, givi
 
 ![Image0](https://github.com/ari-dasci/S-EvoPruneDeepTL/blob/main/images/sparseRepresentation.png)
 
-The following table shows the results of EvoPruneDeepTL when the comparison is made against CNN pruning methods.
+The following table shows the average results of EvoPruneDeepTL when the comparison is made against CNN pruning methods.
 
 ![Image0](https://github.com/ari-dasci/S-EvoPruneDeepTL/blob/main/images/resultsEvoDeepTLPruningCNN.png)
 
+Moreover, we also show the results of our Feature Selection mechanism against the CNN pruning methods.
+
+![Image0](https://github.com/ari-dasci/S-EvoPruneDeepTL/blob/main/images/resultsfs.png)
 
 ## Convergence Plots
 
