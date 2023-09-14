@@ -52,7 +52,7 @@ The following table shows the average results of EvoPruneDeepTL when the compari
 
 Moreover, we also show the results of our Feature Selection mechanism against the CNN pruning methods.
 
-![Image0](https://github.com/ari-dasci/S-EvoPruneDeepTL/blob/main/images/resultsfs.png)
+<img src="images/resultsfs.png" width="300" height="300">
 
 ## Convergence Plots
 
