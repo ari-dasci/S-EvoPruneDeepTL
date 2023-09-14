@@ -56,7 +56,7 @@ Moreover, we also show the results of our Feature Selection mechanism against th
 
 We have also made a comparison against other feature extractors to select the fittest one to our data:
 
-![Image0](https://github.com/ari-dasci/S-EvoPruneDeepTL/blob/main/images/resultscomparisonfeature.png.png)
+![Image0](https://github.com/ari-dasci/S-EvoPruneDeepTL/blob/main/images/resultscomparisonfeature.png)
 
 
 ## Convergence Plots
