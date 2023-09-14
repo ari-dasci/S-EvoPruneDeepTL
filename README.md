@@ -67,13 +67,17 @@ We have carried out an analysis of the ability of EvoPruneDeepTL to adapt to rel
 
 The first experiment is the elimination of a class for each dataset to check the importance of that class in the data.
 
+![Image0](https://github.com/ari-dasci/S-EvoPruneDeepTL/blob/main/images/relevantclasses.png)
 
 
 The second experiment aggregates each class to the dataset until it is fully completed.
 
+![Image0](https://github.com/ari-dasci/S-EvoPruneDeepTL/blob/main/images/aggregation.png)
 
 
 <ins> Robustness </ins>
 
 We have used a novel metric called CKA (Centered Kernel Alignment) to check the robustness of the obtained pruned neural networks. This comparison has been done against the closes network (using Hamming distance as selection method) and a fully-connected network. The results are shown below:
 
+
+![Image0](https://github.com/ari-dasci/S-EvoPruneDeepTL/blob/main/images/cka.png)
