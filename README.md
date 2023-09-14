@@ -59,24 +59,21 @@ We have also made a comparison against other feature extractors to select the fi
 ![Image0](https://github.com/ari-dasci/S-EvoPruneDeepTL/blob/main/images/resultscomparisonfeature.png)
 
 
-## Convergence Plots
+## Relevant classes and robustness
 
-We show some of the convergence plots taken from our experiments:
+We have carried out an analysis of the ability of EvoPruneDeepTL to adapt to relevant classes and robustness.
 
-<ins> First Layer </ins>
+<ins> Relevant classes </ins>
 
-| SRSMAS Plot| RPS Plot   | LEAVES Plot|
-|------------|------------|------------|
-|<img src="convergenceImages/convergenceSRSMASFC1.png" width="300" height="300">|<img src="convergenceImages/convergenceRPSFC1.png" width="300" height="300">|<img src="convergenceImages/convergenceLeavesFC1.png" width="300" height="300">|
-                                                                                                                
-<ins> Second Layer </ins>
+The first experiment is the elimination of a class for each dataset to check the importance of that class in the data.
 
-| SRSMAS Plot| RPS Plot   | LEAVES Plot|
-|------------|------------|------------|
-|<img src="convergenceImages/convergenceSRSMASFC2.png" width="300" height="300">|<img src="convergenceImages/convergenceRPSFC2.png" width="300" height="300">|<img src="convergenceImages/convergenceLeavesFC2.png" width="300" height="300">|
 
-<ins> Both Layers </ins>
 
-| SRSMAS Plot| RPS Plot   | LEAVES Plot|
-|------------|------------|------------|
-|<img src="convergenceImages/convergenceSRSMASBoth.png" width="300" height="300">|<img src="convergenceImages/convergenceRPSBoth.png" width="300" height="300">|<img src="convergenceImages/convergenceLeavesBoth.png" width="300" height="300">|
+The second experiment aggregates each class to the dataset until it is fully completed.
+
+
+
+<ins> Robustness </ins>
+
+We have used a novel metric called CKA (Centered Kernel Alignment) to check the robustness of the obtained pruned neural networks. This comparison has been done against the closes network (using Hamming distance as selection method) and a fully-connected network. The results are shown below:
+
