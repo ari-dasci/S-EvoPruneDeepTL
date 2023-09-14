@@ -54,6 +54,11 @@ Moreover, we also show the results of our Feature Selection mechanism against th
 
 <div style="text-align:center"><img src="images/resultsfs.png" width="750" height="500"></div>
 
+We have also made a comparison against other feature extractors to select the fittest one to our data:
+
+![Image0](https://github.com/ari-dasci/S-EvoPruneDeepTL/blob/main/images/resultscomparisonfeature.png.png)
+
+
 ## Convergence Plots
 
 We show some of the convergence plots taken from our experiments:
